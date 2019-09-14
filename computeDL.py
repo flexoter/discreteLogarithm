@@ -1,3 +1,10 @@
+#!/usr/bin/sudo python
+# -*- coding: utf-8 -*-
+"""
+    Module contains functions to compute discrete logarythm
+
+"""
+
 from math import (
     sqrt,
     modf
